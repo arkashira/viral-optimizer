@@ -1,2 +1,5 @@
-# viral-optimizer
-axentx product · Viralix: AI-driven video optimization platform for content creators and marketers to increase the chances of their short videos going viral.
+# Video Optimizer
+A Python project for optimizing video performance metrics.
+
+## Installation
+To install the project, run the following command:
