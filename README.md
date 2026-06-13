@@ -1,5 +1,7 @@
-# Video Optimizer
-A Python project for optimizing video performance metrics.
+# Viral Optimizer
+AI-powered thumbnail generation for viral video uploads.
 
-## Installation
-To install the project, run the following command:
+## Usage
+1. Install dependencies: `poetry install`
+2. Run tests: `poetry run pytest`
+3. Run the optimizer: `poetry run python -m src.viral_optimizer`
